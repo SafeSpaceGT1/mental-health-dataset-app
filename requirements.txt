@@ -1,4 +1,6 @@
 streamlit
-pdfplumber
-docx2txt
-python-docx
+matplotlib
+pandas
+plotly
+gspread
+oauth2client
